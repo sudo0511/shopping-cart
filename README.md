@@ -14,3 +14,6 @@ In the project directory, you can run:
 
 ### `npm start` post installing one additional dependency of 'react-icons'.
 
+Sample Snapshot.
+
+![image](https://user-images.githubusercontent.com/29896813/181925281-ea08a03e-a4a0-46c3-9abb-23bfaaaf25c7.png)
