@@ -8,7 +8,7 @@ Features included are -
 * Cart Checkout
 
 ## Concepts Covered
-Project built with main focus on learning to use Context API with useReducer Hooks in React JS. Covers use of multiple contexts and reducer methods to handle state management.
+Project built with main focus on learning to use Context API with useReducer Hooks in React JS. Covers use of multiple contexts and reducer methods to handle state management. Browser local storage is used to handle cache, to set and get state data so that on reloads cart items are not lost.
 
 In the project directory, you can run:
 
